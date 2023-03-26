@@ -1,0 +1,4 @@
+# type error in the `defineConfig` function
+vite.config.ts
+tailwind.config.cjs
+postcss.config.cjs
